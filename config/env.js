@@ -1,5 +1,5 @@
 'use strict';
-const REACT_APP_ACCWEATHER_API_KEY = 'QmA2OICWHdIsrZb4P9HBWPGUgwZyYREn';
+const REACT_APP_ACCWEATHER_API_KEY = '';
 const fs = require('fs');
 const path = require('path');
 const paths = require('./paths');
