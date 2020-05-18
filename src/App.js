@@ -29,7 +29,7 @@ function App() {
       <footer className="site-footer">
         <div className="container">
           <div className="row">
-            <div className="col-md-6 col-md-offset-1"> <p className="colophon">Site Prepared by Patel Drashti for LinkSoft</p></div>
+            <div className="col-md-6 col-md-offset-1"> <p className="colophon">Site Prepared by Patel Drashti</p></div>
             <div className="col-md-3 col-md-offset-1">
               <div className="social-links">
                 <a href="mailto:drashtiarunpatel@gmail.com" className="email"><Image src={require('./images/email.png')} thumbnail /></a>
